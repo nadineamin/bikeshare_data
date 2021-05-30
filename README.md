@@ -5,3 +5,5 @@ The versions of the libraries used in this project were the following:
 > python 3.7.10
 
 > pandas 1.2.4
+
+> spyder 5.0.0
